@@ -1,0 +1,20 @@
+/* Large Devices (Desktops & Laptops) */
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+    /* Navigation */
+
+    #home-heading-2{
+        font-size: 0.5rem;
+    }
+
+
+
+}
+
+/* Medium Devices (Landscape Tablets & Medium Desktops) */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* Navigation */
+    #container-fluid{
+        font-size: 0.5em;
+    }
